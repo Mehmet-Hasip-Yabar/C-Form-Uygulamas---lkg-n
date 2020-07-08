@@ -1,2 +1,2 @@
-# C-Form-Uygulamas---lkg-n
+# C-Sharp-Form-Uygulaması-İlk-gun
 Sıfırdan C# Öğreniyorum.
