@@ -1,0 +1,10 @@
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\bin\Debug\İlkFormUygulaması.exe.config
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\bin\Debug\İlkFormUygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\bin\Debug\İlkFormUygulaması.pdb
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.csprojAssemblyReference.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.Form1.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.Properties.Resources.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.csproj.GenerateResource.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\İlkFormUygulaması\İlkFormUygulaması\obj\Debug\İlkFormUygulaması.pdb
